@@ -1,0 +1,20 @@
+{
+  "ads": {
+    "ads_active": true,
+    "provider": "startio",
+    "startio": {
+      "app_id": "207332846"
+    },
+    "formats": {
+      "rewarded_before_play": {
+        "enabled": true
+      },
+      "interstitial": {
+        "enabled": false
+      },
+      "banner": {
+        "enabled": false
+      }
+    }
+  }
+}
