@@ -13,7 +13,7 @@
         "enabled": false
       },
       "banner": {
-        "enabled": false
+        "enabled": true
       }
     }
   }
