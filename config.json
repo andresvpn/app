@@ -1,4 +1,6 @@
 {
+  "version": "1.0.0",
+  "enlace_android": "",
   "ads": {
     "ads_active": true,
     "provider": "startio",
