@@ -6,7 +6,7 @@
     "provider": "startio",
       "startio": {
         "app_id": "207332846",
-        "test_ads": false
+        "test_ads": true
       },
     "formats": {
       "rewarded_before_play": {
