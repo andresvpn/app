@@ -1,11 +1,11 @@
 {
-    "name": "torrent_player",
-    "short_name": "torrent_player",
+    "name": "InfinyStream",
+    "short_name": "InfinyStream",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0A0C",
+    "theme_color": "#141417",
+    "description": "InfinyStream - peliculas y series en streaming",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
