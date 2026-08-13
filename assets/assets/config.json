@@ -1,19 +1,22 @@
 {
+  "version": "1.0.0",
+  "enlace_android": "",
   "ads": {
     "ads_active": true,
     "provider": "startio",
-    "startio": {
-      "app_id": "207332846"
-    },
+      "startio": {
+        "app_id": "207332846",
+        "test_ads": false
+      },
     "formats": {
       "rewarded_before_play": {
         "enabled": true
       },
       "interstitial": {
-        "enabled": false
+        "enabled": true
       },
       "banner": {
-        "enabled": false
+        "enabled": true
       }
     }
   }
