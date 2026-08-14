@@ -1,6 +1,22 @@
 {
   "version": "1.0.0",
   "enlace_android": "",
+  "app": {
+    "app_name": "InfinyStream",
+    "descripcion": "Reproductor de películas en streaming.",
+    "sociales": [
+      {
+        "red": "Telegram",
+        "icono": "telegram",
+        "url": "https://t.me/infinystream"
+      },
+      {
+        "red": "YouTube",
+        "icono": "youtube",
+        "url": ""
+      }
+    ]
+  },
   "ads": {
     "ads_active": true,
     "provider": "startio",
