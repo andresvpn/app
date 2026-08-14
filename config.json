@@ -1,1 +1,1 @@
-{"version":"1.0.0","enlace_android":"","ads":{"ads_active":true,"provider":"startio","startio":{"app_id":"207332846","test_ads":false},"formats":{"rewarded_before_play":{"enabled":true},"interstitial":{"enabled":true},"banner":{"enabled":true}}}}
+{"version":"1.0.0","enlace_android":"","app":{"app_name":"","descripcion":"","sociales":[]},"ads":{"ads_active":true,"provider":"startio","startio":{"app_id":"207332846","test_ads":false},"formats":{"rewarded_before_play":{"enabled":true},"interstitial":{"enabled":true},"banner":{"enabled":true}}}}
