@@ -1,0 +1,11 @@
+{
+    "notifications":  [
+                          {
+                              "date":  "2026-08-14",
+                              "title":  "¡Bienvenido a InfinyStream!",
+                              "message":  "Ya podes explorar el catálogo, buscar por voz y ver las novedades. Los avisos importantes aparecerán acá.",
+                              "id":  "welcome",
+                              "type":  "news"
+                          }
+                      ]
+}
