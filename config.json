@@ -1,1 +1,25 @@
-{"version":"1.0.0","enlace_android":"","app":{"app_name":"","descripcion":"","sociales":[]},"ads":{"ads_active":true,"provider":"startio","startio":{"app_id":"207332846","test_ads":false},"formats":{"rewarded_before_play":{"enabled":true},"interstitial":{"enabled":true},"banner":{"enabled":true}}}}
+{
+  "version": "1.0.0",
+  "enlace_android": "",
+  "telegram": "https://t.me/infinystream",
+  "app": {
+    "app_name": "InfinyStream",
+    "descripcion": "Películas y series sin límites.",
+    "sociales": [
+      {
+        "red": "Telegram",
+        "icono": "telegram",
+        "url": "https://t.me/infinystream"
+      }
+    ]
+  },
+  "notifications": [
+    {
+      "id": "welcome",
+      "type": "news",
+      "date": "2026-08-14",
+      "title": "¡Bienvenido a InfinyStream!",
+      "message": "Explorá el catálogo de películas y series. Los avisos importantes aparecerán acá."
+    }
+  ]
+}
