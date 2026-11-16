@@ -1,7 +1,24 @@
 {
+  "schema_version": 1,
   "version": "1.0.0",
-  "enlace_android": "",
+  "enlace_android": "https://infinystream.xyz/?download=1",
   "telegram": "https://t.me/InfinyStream_oficial",
+  "share": {
+    "enabled": true,
+    "domain": "infinystream.xyz",
+    "base_url": "https://infinystream.xyz/movie/",
+    "serie_base_url": "https://infinystream.xyz/serie/",
+    "android_package": "com.andres.infinystream",
+    "custom_scheme": "infinystream://",
+    "clipboard_detect": true
+  },
+  "streak": {
+    "enabled": true,
+    "min_minutes": 5,
+    "reminder_hour": 20,
+    "freezes_per_month": 1,
+    "milestones": [3, 7, 14, 30, 60, 100]
+  },
   "app": {
     "app_name": "InfinyStream",
     "descripcion": "Películas y series sin límites.",
