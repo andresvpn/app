@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "version": "1.0.0",
-  "enlace_android": "https://infinystream.xyz/?download=1",
+  "enlace_android": "https://infinystream.site.je/apk/",
   "telegram": "https://t.me/InfinyStream_oficial",
   "share": {
     "enabled": true,
-    "domain": "infinystream.xyz",
-    "base_url": "https://infinystream.xyz/movie/",
-    "serie_base_url": "https://infinystream.xyz/serie/",
+    "domain": "infinystream.site.je",
+    "base_url": "https://infinystream.site.je/movie/",
+    "serie_base_url": "https://infinystream.site.je/serie/",
     "android_package": "com.andres.infinystream",
     "custom_scheme": "infinystream://",
     "clipboard_detect": true
