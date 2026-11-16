@@ -1,15 +1,13 @@
 {
   "schema_version": 1,
   "version": "1.0.0",
-  "enlace_android": "https://app.infinystream.site/apk/",
+  "enlace_android": "https://github.com/andresvpn/app/releases",
   "telegram": "https://t.me/InfinyStream_oficial",
   "share": {
     "enabled": true,
-    "domain": "app.infinystream.site",
-    "base_url": "https://app.infinystream.site/movie/",
-    "serie_base_url": "https://app.infinystream.site/serie/",
+    "link_mode": "scheme",
     "android_package": "com.andres.infinystream",
-    "custom_scheme": "infinystream://",
+    "custom_scheme": "infinystream:",
     "clipboard_detect": true
   },
   "streak": {
