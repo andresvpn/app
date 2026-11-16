@@ -1,11 +1,19 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "version": "1.0.0",
-  "enlace_android": "https://github.com/andresvpn/app/releases",
+  "enlace_android": "https://app.infinystream.site/apk/",
   "telegram": "https://t.me/InfinyStream_oficial",
+  "donacion": {
+    "activo": true,
+    "paypal": "https://paypal.me/InfinyStream",
+    "texto": "Ayudanos a mantener el catálogo y los servidores. Cada aporte suma."
+  },
   "share": {
     "enabled": true,
-    "link_mode": "scheme",
+    "link_mode": "https",
+    "domain": "app.infinystream.site",
+    "base_url": "https://app.infinystream.site/movie/",
+    "serie_base_url": "https://app.infinystream.site/serie/",
     "android_package": "com.andres.infinystream",
     "custom_scheme": "infinystream:",
     "clipboard_detect": true
@@ -15,7 +23,51 @@
     "min_minutes": 5,
     "reminder_hour": 20,
     "freezes_per_month": 1,
-    "milestones": [3, 7, 14, 30, 60, 100]
+    "milestones": [3, 7, 14, 30, 60, 100],
+    "amigos": true,
+    "modos": [
+      {
+        "id": "clasico",
+        "nombre": "Clásico",
+        "descripcion": "Un día, una sesión",
+        "min_minutes": 5,
+        "icono": "flame"
+      },
+      {
+        "id": "maraton",
+        "nombre": "Maratón",
+        "descripcion": "Sesión larga de 25 min",
+        "min_minutes": 25,
+        "icono": "bolt"
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Descubrí algo nuevo",
+        "min_minutes": 10,
+        "icono": "compass"
+      }
+    ],
+    "estilos": [
+      {
+        "id": "cine",
+        "nombre": "Cine",
+        "descripcion": "Carrete fantasma",
+        "mascota": "reel"
+      },
+      {
+        "id": "robot",
+        "nombre": "Robot",
+        "descripcion": "Minimalista",
+        "mascota": "robot"
+      },
+      {
+        "id": "fantasma",
+        "nombre": "Fantasma",
+        "descripcion": "Nocturno",
+        "mascota": "ghost"
+      }
+    ]
   },
   "app": {
     "app_name": "InfinyStream",
