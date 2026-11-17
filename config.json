@@ -5,8 +5,12 @@
   "telegram": "https://t.me/InfinyStream_oficial",
   "donacion": {
     "activo": true,
-    "paypal": "https://www.paypal.com/donate/?hosted_button_id=55SX7BSPR6PJQ",
+    "paypal": "https://paypal.me/InfinyStream",
     "texto": "Ayudanos a mantener el catálogo y los servidores. Cada aporte suma."
+  },
+  "api": {
+    "base": "https://app.infinystream.site/api",
+    "token": "infst2026app7f3c9e1"
   },
   "share": {
     "enabled": true,
