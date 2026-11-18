@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": "2.1.0",
+  "version": "3.0.0",
   "enlace_android": "https://app.infinystream.site/apk/",
   "telegram": "https://t.me/InfinyStream_oficial",
   "donacion": {
@@ -28,7 +28,6 @@
     "reminder_hour": 20,
     "freezes_per_month": 1,
     "milestones": [3, 7, 14, 30, 60, 100],
-    "amigos": true,
     "modos": [
       {
         "id": "clasico",
